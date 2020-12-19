@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá!!! 👋
 
-<!--
-**Danilo282/Danilo282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Danilo
+#### Sou Analista de Infraestrutura / SRE - Devops / Scrum Master
+#### Tenho experiencia de 8 anos em Tecnologia da Informação, atuando na area de Infra e atualmente estou aprendendo a programar em Python e automatizar a maioria das tarefas mais repetitivas. 
 
-Here are some ideas to get you started:
+## Segue abaixo as linguagens mais utilizadas em meus projetos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Danilo282](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo282&hide=html&layout=compact&theme=dark)](https://github.com/Danilo282/)
+
+## Total de participações:
+
+[![card](https://github-readme-stats.vercel.app/api?username=Danilo282&theme=dark)](https://github.com/Danilo282/)
+
+
