@@ -1,8 +1,8 @@
 # Olá!!! 👋
 
 ## Meu nome é Danilo
-#### Sou Analista de Infraestrutura / SRE - Devops / Scrum Master
-#### Tenho experiencia de 8 anos em Tecnologia da Informação, atuando na area de Infra e atualmente estou aprendendo a programar em Python e automatizar a maioria das tarefas mais repetitivas. 
+#### Sou Product Owner / Product Manager atualmente
+#### Tenho experiencia de 9 anos em Tecnologia da Informação, atuando na area de Infra e atualmente estou aprendendo a programar em Python e automatizar a maioria das tarefas mais repetitivas. 
 
 ### Sempre gostei muito de matemática e numeros.
 
