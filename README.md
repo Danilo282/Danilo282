@@ -2,7 +2,7 @@
 
 ## Meu nome é Danilo
 #### Sou Tecnical Product Manager - Agile Specialist - Tech Lead Observability atualmente.
-#### Tenho experiencia de 12 anos em Tecnologia da Informação, atuando na area de Infra, Produtos e Observability onde atualmente estou aprendendo a programar em Python,  e automatizar a maioria das tarefas mais repetitivas. 
+#### Tenho experiencia de 13 anos em Tecnologia da Informação, atuando na area de Infra, Produtos e Observability onde atualmente estou aprendendo a programar em Python, NodeJS e React,  e automatizar a maioria das tarefas mais repetitivas. 
 
 ### Sempre gostei muito de matemática e numeros.
 
